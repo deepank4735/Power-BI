@@ -1,6 +1,6 @@
 # Maven Toys Challenge
 
-### Dashboard Link : https://www.novypro.com/project/maven-toy-store-analysis-
+### Dashboard Link : https://project.novypro.com/dfxxtl
 ## Problem Statement
 
 ### Analysis to be done
