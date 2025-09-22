@@ -1,6 +1,6 @@
 # Maven Toys Challenge
 
-### Dashboard Link : https://project.novypro.com/dfxxtl
+### Dashboard Link : https://drive.google.com/file/d/1Kto_y338dMIoUIuGaTq6DSeMn4OeT7TZ/view
 ## Problem Statement
 
 ### Analysis to be done
